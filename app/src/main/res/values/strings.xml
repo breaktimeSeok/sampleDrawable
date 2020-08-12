@@ -1,3 +1,5 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">sampleDrawable</string>
+    <string name="button">Button</string>
+    <string name="button" tools:ignore="DuplicateDefinition">Button</string>
 </resources>
